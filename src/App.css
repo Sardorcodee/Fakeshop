@@ -1,0 +1,6 @@
+img{
+    width: 100%!important;
+    height: 22em!important;
+    object-fit: contain;
+    overflow: clip;
+}
